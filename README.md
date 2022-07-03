@@ -1,5 +1,17 @@
 ### (ง '-' )ง うーっ٩( 'o' )۶ぽよぽよ～っ！！
 
+## Programming Language 💨
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt.js)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ--IDEA-000000?style=flat-square&logo=IntelliJ-IDEA)
+
 ## Social 💨
 <div align="center">
     <a target="_blank" href="https://twitter.com/harunonsystem">
@@ -17,21 +29,5 @@
 </div>
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=harunonsystem&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunonsystem&layout=compact)
-
-
-<!--
-**harunonsystem/harunonsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=harunonsystem&show_icons=true&count_private=true&theme=merko)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunonsystem&layout=compact&theme=merko)
