@@ -26,6 +26,9 @@
     <a target="_blank" href="https://keybase.io/harunon">
         <img alt="keybase" src="https://img.shields.io/static/v1?style=for-the-badge&logo=keybase&label=Keybase&message=@harunon&color=purple"/>
     </a>
+    <a target="_blank" href="https://zenn.dev/harunonsystem">
+        <img alt="zenn" src="https://img.shields.io/badge/Zenn-harunonsystem-lightgrey?style=flat-square&logo=zenn&message=@harunon&color=blue"/>
+    </a>
 </div>
 
 
