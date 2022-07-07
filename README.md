@@ -32,5 +32,10 @@
 </div>
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=harunonsystem&show_icons=true&count_private=true&theme=merko)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunonsystem&layout=compact&theme=merko)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunonsystem&theme=dracula) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harunonsystem&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harunonsystem&theme=dracula) 
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harunonsystem&theme=dracula) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harunonsystem&theme=dracula&utcOffset=8) 
+ ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=harunonsystem&show_icons=true&count_private=true&theme=merko)
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harunonsystem&layout=compact&theme=merko)
