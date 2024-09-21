@@ -15,7 +15,7 @@
 ## Social 💨
 <div align="center">
     <a target="_blank" href="https://x.com/harunonsystem">
-        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@harunonsystem&color=purple"/>
+        <img alt="X" src="https://img.shields.io/static/v1?style=for-the-badge&logo=x&label=X&message=@harunonsystem&color=purple"/>
     </a>
   <a target="_blank" href="https://discordapp.com/users/harunon#5514">
         <img alt="discord" src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=discord&message=@harunon#5514&color=purple"/>
