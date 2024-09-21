@@ -14,20 +14,17 @@
 
 ## Social 💨
 <div align="center">
-    <a target="_blank" href="https://twitter.com/harunonsystem">
+    <a target="_blank" href="https://x.com/harunonsystem">
         <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@harunonsystem&color=purple"/>
     </a>
   <a target="_blank" href="https://discordapp.com/users/harunon#5514">
         <img alt="discord" src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=discord&message=@harunon#5514&color=purple"/>
     </a>
-    <a target="_blank" href="https://twitter.com/harunonsystem">
+    <a target="_blank" href="https://github.com/harunonsystem">
         <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=GitHub&message=@harunonsystem&color=purple"/>
     </a>
     <a target="_blank" href="https://keybase.io/harunon">
         <img alt="keybase" src="https://img.shields.io/static/v1?style=for-the-badge&logo=keybase&label=Keybase&message=@harunon&color=purple"/>
-    </a>
-    <a target="_blank" href="https://zenn.dev/harunonsystem">
-        <img alt="zenn" src="https://img.shields.io/badge/Zenn-harunonsystem-lightgrey?style=flat-square&logo=zenn&message=@harunon&color=blue"/>
     </a>
 </div>
 
