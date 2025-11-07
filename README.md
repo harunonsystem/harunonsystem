@@ -1,17 +1,25 @@
 
 ## Programming 💨
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ--IDEA-000000?style=flat-square&logo=IntelliJ-IDEA)
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,python" />
+  </a>
+</p>
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,nuxtjs,flutter,django,fastapi" />
+  </a>
+</p>
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,bun,vite,vitest,tailwind,prisma,firebase,cloudflare,sentry,vscode,webstorm" />
+  </a>
+</p>
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,discord,github,misskey" />
+  </a>
+</p>
 
 ## Social 💨
 <div align="center">
