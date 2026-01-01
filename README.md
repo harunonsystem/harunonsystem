@@ -32,10 +32,16 @@
     <a target="_blank" href="https://github.com/harunonsystem">
         <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=GitHub&message=@harunonsystem&color=purple"/>
     </a>
-     <a target="_blank" href="https://misskey.io/@harunon">
-        <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&logo=misskey&label=Misskey&message=@harunon&color=purple"/>
-    </a>
 </div>
+<div align="center">
+     <a target="_blank" href="https://misskey.io/@harunon">
+        <img alt="MisskeyIO" src="https://img.shields.io/static/v1?style=for-the-badge&logo=misskey&label=Misskey&message=@harunon&color=purple"/>
+    </a>
+    <a target="_blank" href="https://bsky.app/profile/harunonsystem.bsky.social">
+        <img alt="BskyApp" src="https://img.shields.io/static/v1?style=for-the-badge&logo=bluesky&label=bluesky&message=@harunon&color=purple"/>
+    </a>  
+</div>
+
 
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunonsystem&theme=dracula) 
